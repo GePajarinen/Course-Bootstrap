@@ -8,9 +8,9 @@ Upon completion of the assignment, your submission will be reviewed based on the
 
 ##Task 1:
 
-[ ] The page is update to correctly use the Bootstrap CSS classes
-[ ] The page is updated correctly to use the custom CSS classes from styles.css
-[ ] The page has been updated to use the all the necessary JavaScript classes
+[X] The page is update to correctly use the Bootstrap CSS classes
+[X] The page is updated correctly to use the custom CSS classes from styles.css
+[X] The page has been updated to use the all the necessary JavaScript classes
 
 ##Task 2:
 
