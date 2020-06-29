@@ -5,19 +5,25 @@ In progress...
 <br>
 Review criterias:
 Upon completion of the assignment, your submission will be reviewed based on the following criteria:
-
+<br>
 ##Task 1:
-
+<br>
 [X] The page is update to correctly use the Bootstrap CSS classes
 [X] The page is updated correctly to use the custom CSS classes from styles.css
 [X] The page has been updated to use the all the necessary JavaScript classes
-
+<br>
 ##Task 2:
-
-[ ] The container class has been applied to the content at the correct location.
-[ ] Row class, including the row-content class has been applied to the rows of the content. Do not apply row-content to the row containing the page heading
-[ ] Column classes have been appropriately applied to the content within each row to provide responsive layout of the content.
-
+<br>
+[X] The container class has been applied to the content at the correct location.
+[X] Row class, including the row-content class has been applied to the rows of the content. Do not apply row-content to the row containing the page heading
+[X] Column classes have been appropriately applied to the content within each row to provide responsive layout of the content.
+<br>
 ##Task 3:
-
-[ ] The d-none and d-sm-block classes are correctly applied to the content in the Corporate Leadership section to hide the detailed description of the corporate leaders.
+<br>
+[X] The d-none and d-sm-block classes are correctly applied to the content in the Corporate Leadership section to hide the detailed description of the corporate leaders.
+<br>
+<p align="center">
+ <kbd>
+  <img src="#">   
+ </kbd>
+</p>
