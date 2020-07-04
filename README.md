@@ -55,12 +55,12 @@ Upon completion of the assignment, your submission will be reviewed based on the
 
 ## Task 2
 
-- [ ] The content in the row has been correctly formatted using the media class
-- [ ] The image is displayed to the right of the content using the correct media-* classes and at the correct position.
-- [ ] The badge is correctly displayed in the second row.
+- [X] The content in the row has been correctly formatted using the media class
+- [X] The image is displayed to the right of the content using the correct media-* classes and at the correct position.
+- [X] The badge is correctly displayed in the second row.
 
 ## Task 3
 
-- [ ] The Reserve Table button is correctly included in the Jumbotron and is a block size button.
-- [ ] The button is correctly enclosed inside a div with the correct column specification.
-- [ ] The reserve button when clicked takes us to the form. The link in the button should be set up correctly to take us to the form.
+- [X] The Reserve Table button is correctly included in the Jumbotron and is a block size button.
+- [X] The button is correctly enclosed inside a div with the correct column specification.
+- [X] The reserve button when clicked takes us to the form. The link in the button should be set up correctly to take us to the form.
