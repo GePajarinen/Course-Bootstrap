@@ -48,10 +48,10 @@ Upon completion of the assignment, your submission will be reviewed based on the
 ## Task 1:
 
 - [X] The new content row is correctly formatted and includes the reservation form and the “Reserve a Table” card header.
-- [ ] The form contains the radios to enable specification of the number of guests.
-- [ ] The form includes a date field
-- [ ] The form includes a time field
-- [ ] The form contains a reserve button.
+- [X] The form contains the radios to enable specification of the number of guests.
+- [X] The form includes a date field
+- [X] The form includes a time field
+- [X] The form contains a reserve button.
 
 ## Task 2
 
