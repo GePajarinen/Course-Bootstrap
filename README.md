@@ -8,27 +8,23 @@ Review criterias:
 Upon completion of the assignment, your submission will be reviewed based on the following criteria:   
 <br>
 
+# First week:
+
 ## Task 1:   
-<br>
 
 - [X] The page is update to correctly use the Bootstrap CSS classes   
 - [X] The page is updated correctly to use the custom CSS classes from styles.css   
-- [X] The page has been updated to use the all the necessary JavaScript classes   
-<br>
+- [X] The page has been updated to use the all the necessary JavaScript classes
 
 ## Task 2: 
-<br>
 
 - [x] The container class has been applied to the content at the correct location.   
 - [X] Row class, including the row-content class has been applied to the rows of the content. Do not apply row-content to the row containing the page heading   
 - [X] Column classes have been appropriately applied to the content within each row to provide responsive layout of the content.   
-<br>
 
 ## Task 3:
-<br>
 
 - [x] The d-none and d-sm-block classes are correctly applied to the content in the Corporate Leadership section to hide the detailed description of the corporate leaders. 
-<br>
 
 ### On big display:   
 <br>
@@ -46,3 +42,25 @@ Upon completion of the assignment, your submission will be reviewed based on the
   <img src="https://github.com/GePajarinen/Course-Bootstrap/blob/master/Bootstrap4/conFusion/pics/Assignment-1-aboutus-xsm.png?raw=true">   
  </kbd>
 </p>
+
+# Second week:
+
+## Task 1:
+
+- [ ] The new content row is correctly formatted and includes the reservation form and the “Reserve a Table” card header.
+- [ ] The form contains the radios to enable specification of the number of guests.
+- [ ] The form includes a date field
+- [ ] The form includes a time field
+- [ ] The form contains a reserve button.
+
+## Task 2
+
+- [ ] The content in the row has been correctly formatted using the media class
+- [ ] The image is displayed to the right of the content using the correct media-* classes and at the correct position.
+- [ ] The badge is correctly displayed in the second row.
+
+## Task 3
+
+- [ ] The Reserve Table button is correctly included in the Jumbotron and is a block size button.
+- [ ] The button is correctly enclosed inside a div with the correct column specification.
+- [ ] The reserve button when clicked takes us to the form. The link in the button should be set up correctly to take us to the form.
