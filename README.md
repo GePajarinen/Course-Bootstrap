@@ -64,3 +64,20 @@ Upon completion of the assignment, your submission will be reviewed based on the
 - [X] The Reserve Table button is correctly included in the Jumbotron and is a block size button.
 - [X] The button is correctly enclosed inside a div with the correct column specification.
 - [X] The reserve button when clicked takes us to the form. The link in the button should be set up correctly to take us to the form.
+
+### On big display:   
+<br>
+<p align="center">
+ <kbd>
+  <img src="https://github.com/GePajarinen/Course-Bootstrap/blob/master/Bootstrap4/conFusion/pics/Assignment-2-aboutus-sm.png?raw=true">   
+ </kbd>
+</p>
+<br>
+
+### On small display:   
+<br>
+<p align="center">
+ <kbd>
+  <img src="https://github.com/GePajarinen/Course-Bootstrap/blob/master/Bootstrap4/conFusion/pics/Assignment-2-aboutus-xsm.png?raw=true">   
+ </kbd>
+</p>
