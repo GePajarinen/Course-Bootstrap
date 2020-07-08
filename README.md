@@ -4,9 +4,6 @@ Front-End Web UI Frameworks and Tools: Bootstrap 4, Coursera course with Prof. J
 
 In progress...   
 <br>
-Review criterias:   
-Upon completion of the assignment, your submission will be reviewed based on the following criteria:   
-<br>
 
 # First week:
 
