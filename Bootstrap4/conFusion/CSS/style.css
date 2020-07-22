@@ -65,3 +65,11 @@ body{
     left: 0;
     min-height: 300px;
 }
+
+.cancel{
+ margin: 5px;
+}
+
+.reserve{
+    margin: 5px;
+}
