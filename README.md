@@ -78,3 +78,25 @@ In progress...
   <img src="https://github.com/GePajarinen/Course-Bootstrap/blob/master/Bootstrap4/conFusion/pics/Assignment-2-aboutus-xsm.png?raw=true">   
  </kbd>
 </p>
+
+# Third week:
+
+## Task 1:
+
+- [ ] The form has been moved into a modal.
+- [ ] The modal HTML code is included towards the top of the body of the page near the other modal code.
+- [ ] The modal includes a Cancel button to dismiss the modal.
+- [ ] The modal header includes a X button to dismiss the modal.
+
+## Task 2:
+
+- [ ] A correct radio button group with the labels non-smoking in green and smoking in red is included in the form. Use the correct button color classes for the buttons.
+- [ ] The label of the row containing the buttons is set to Section.
+- [ ] The non-smoking button is checked by default.
+
+## Task 3:
+
+- [ ] The tooltip has been removed from the Reserve Table button and the corresponding JavaScript code has been removed from the bottom of the page.
+- [ ] The Reserve Table button will show the modal containing the table reservation form when clicked.
+
+
